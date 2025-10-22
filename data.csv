@@ -1,0 +1,8 @@
+product,units,price,date,region
+Product A,10,15.00,2023-01-01,Region 1
+Product B,20,10.00,2023-01-01,Region 2
+Product A,15,15.00,2023-01-02,Region 1
+Product B,5,10.00,2023-01-02,Region 2
+Product C,25,20.00,2023-01-03,Region 1
+Product A,30,15.00,2023-01-03,Region 2
+Product C,10,20.00,2023-01-04,Region 1
